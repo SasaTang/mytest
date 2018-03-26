@@ -139,6 +139,7 @@ acs-*.bib
 _minted*
 *.pyg
 
+
 # morewrites
 *.mw
 
